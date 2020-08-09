@@ -24,6 +24,8 @@ SQL Employee Tracker
 
 [Screencastify Video LINK](https://drive.google.com/file/d/1AxPLo9gAZDjIqjkD-EtLOHyISK4ZLvlk/view)
 
+[Google Drive Video LINK](https://drive.google.com/file/d/1AxPLo9gAZDjIqjkD-EtLOHyISK4ZLvlk/view?usp=sharing)
+
 This project deals with adding a employee, role, or department to a list and saving it for future use. You can also look up existing employees and change their roles through the prompt.
 
 ### Installation:

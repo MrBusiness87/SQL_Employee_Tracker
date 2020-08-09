@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MrBusiness87/SQL_Employee_Tracker/issues"
   },
-  "homepage": "https://github.com/MrBusiness87/SQL_Employee_Tracker#readme"
+  "homepage": "https://github.com/MrBusiness87/SQL_Employee_Tracker#readme",
+  "dependencies": {
+    "connection": "^1.1.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }
